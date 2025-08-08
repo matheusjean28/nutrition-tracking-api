@@ -1,0 +1,30 @@
+# Arquivos compilados pelo Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Ambiente virtual
+venv/
+.env/
+.envrc
+
+# Banco de dados SQLite local
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Cache
+.cache/
+*.pytest_cache/
+
+# Configurações do editor/IDE
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.temp
